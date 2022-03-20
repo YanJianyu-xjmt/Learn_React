@@ -1,0 +1,20 @@
+.slideul{
+    list-style-type: none;
+    position: fixed;
+    left:0%;
+    width: 10%;
+    color: red;
+    height: 100%;
+    background-color: white;
+    line-height: 100px;
+}
+
+.slideulli{
+    color: black;
+    background-color: white;
+}
+
+.active{
+    color:red;
+    text-align: center;
+}

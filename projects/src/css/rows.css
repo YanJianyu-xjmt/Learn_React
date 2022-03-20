@@ -1,0 +1,35 @@
+.rows{
+    list-style-type: none;
+    width: 90%;
+    background: green;
+    right: 20%;
+    display:flex;
+    float: left;
+    position: flex;
+    text-align: right;
+}
+.slide{
+    width: 10%;
+    float: left;
+    background: red;
+    position: fixed;
+}
+.row1{
+    width: 10%;
+    left:20%;
+    background: red;
+    position: fixed;
+}
+.row2{
+    width: 10%;
+    left: 10%;
+    background: red;
+    position: fixed;
+}
+.editButton{
+    width: 10%;
+    left: 40%;
+    background: red;
+    position: fixed;
+    
+}
