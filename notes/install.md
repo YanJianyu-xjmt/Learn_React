@@ -5,3 +5,4 @@
 - 管理员身份使用power shell
 - 输入 set-ExecutionPolicy RemoteSigned 设置A
 - 然后create-react-app demo
+可以
